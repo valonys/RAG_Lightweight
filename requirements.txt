@@ -1,7 +1,8 @@
-streamlit==1.20.0
-langchain==0.0.153
-huggingface_hub==0.10.0
-chromadb==0.3.21
-llama-cpp-python==0.1.17
-requests==2.27.1
-tqdm==4.64.0
+streamlit
+langchain
+huggingface_hub
+chromadb
+llama-cpp-python
+requests
+tqdm
+
